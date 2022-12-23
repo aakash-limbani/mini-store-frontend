@@ -106,7 +106,7 @@ This project was built using React v 17.0.2, Redux v 4.1.1, Chakra UI, CSS, Java
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/aakash-limbani/Mini-Store) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/aakash-limbani/mini-store-frontend) or just clone the project using this command. 
 
 
 ```
