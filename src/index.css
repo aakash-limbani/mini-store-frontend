@@ -1,0 +1,39 @@
+body {
+  margin: 0%;
+ 
+}
+
+*{
+  
+}
+
+.zoom{
+  transition: all 1s ease-in-out;
+}
+
+.zoom:hover{
+  transform: scale(1.2);
+}
+
+.expand {
+  transition: all 0.5s ;
+}
+
+.slide {
+  transition: all 1s linear;
+}
+
+.shadow {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.scroll::-webkit-scrollbar,
+body::-webkit-scrollbar {
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+.scroll::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb {
+	background-color: #727272;
+}
